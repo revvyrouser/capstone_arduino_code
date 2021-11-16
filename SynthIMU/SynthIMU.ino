@@ -12,6 +12,8 @@
   by Riccardo Rizzo
 
   This example code is in the public domain.
+
+  Adapted by Magdalena Richarson
 */
 
 #include <Arduino_LSM9DS1.h>
